@@ -10,3 +10,9 @@ Essentially completed first unit of studies, have a much more in depth idea of c
 07.03.23
 
 Completed an assesment within the "review cybersecurity awareness in the work area" topic studies, top 3 current threats included ; Phising/Social engineering, Lack of cyber security knowledge within the workforce, Artifical intelligence and Machine learning
+
+
+08.02.23
+
+Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - found it to be truly informative and put into easy to understand bites. 
+- completed task assesment 4 from diploma "review cybersecurity practices" 
