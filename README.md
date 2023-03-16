@@ -25,3 +25,7 @@ Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - f
 - working further into the creative thinking space
 - Working through the topic of orginating and developing new ideas
 - This topic especially is extremely applicable to all industries, delving into things like; how to work through common issues with implementing new ideas, how to brainstorm and devlop fresh process', how to work as a team in that space. extemely eye opening and thoroughly enjoyable topic.
+
+
+16.03.23
+- completion and submition of my go at a "acceptble use policy" and "Bring your own device policy" aswell as a communication and training plan to be implemented in an IT department. 
