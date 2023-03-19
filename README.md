@@ -29,3 +29,6 @@ Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - f
 
 16.03.23
 - completion and submition of my go at a "acceptble use policy" and "Bring your own device policy" aswell as a communication and training plan to be implemented in an IT department. 
+
+19.03.23
+- Start of Assestment one in "Orginate and develop concepts" unit, heavy focus on creative thinking and implemtation of these crative thinking concepts in an ICT business environment.
