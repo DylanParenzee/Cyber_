@@ -32,3 +32,6 @@ Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - f
 
 19.03.23
 - Start of Assestment one in "Orginate and develop concepts" unit, heavy focus on creative thinking and implemtation of these crative thinking concepts in an ICT business environment.
+
+21.03.23
+- Completion of Assesment 1 in Topic "intoduction to creative thinking concepts and techniques", delved deep into feasability and impelemtation of solutions in a business environemnt, lots to think about but extremely eye opening to the sheer amount of planning needed to implement scalable, viable solutions into new or pre-existing environments.
