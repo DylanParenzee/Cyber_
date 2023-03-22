@@ -35,3 +35,15 @@ Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - f
 
 21.03.23
 - Completion of Assesment 1 in Topic "intoduction to creative thinking concepts and techniques", delved deep into feasability and impelemtation of solutions in a business environemnt, lots to think about but extremely eye opening to the sheer amount of planning needed to implement scalable, viable solutions into new or pre-existing environments.
+
+
+22.03.23
+
+Working through the scope issue unit; 
+
+Identifying workplace situations
+Identifying restrictions due to job roles and company policy and procedures
+Addressing factors that affect the viability of solutions
+understanding the process to find solutions to workplace situations
+Applying the knowledge to address the situations using reliable information sources
+
