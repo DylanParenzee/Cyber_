@@ -41,9 +41,13 @@ Completed the training course " Learning the OWASP Top 10 " by Caroline Wong - f
 
 Working through the scope issue unit; 
 
-Identifying workplace situations
-Identifying restrictions due to job roles and company policy and procedures
-Addressing factors that affect the viability of solutions
-understanding the process to find solutions to workplace situations
-Applying the knowledge to address the situations using reliable information sources
+- Identifying workplace situations
+- Identifying restrictions due to job roles and company policy and procedures
+- Addressing factors that affect the viability of solutions
+- understanding the process to find solutions to workplace situations
+- Applying the knowledge to address the situations using reliable information sources
+
+24.03.23
+
+Working through the first of 4 assesements of this topic, all revolving around the above bullet points. 
 
