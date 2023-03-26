@@ -49,5 +49,5 @@ Working through the scope issue unit;
 
 24.03.23
 
-Working through the first of 4 assesements of this topic, all revolving around the above bullet points. 
+Working through the first of four assesements of this topic, all revolving around the above bullet points. 
 
