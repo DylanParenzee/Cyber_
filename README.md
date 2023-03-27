@@ -63,4 +63,13 @@ Also watched a couple extra vids on subnetting via networkchuck youtube.
 Really interesed about learning more about networking and also the whole devops infrastructure at this moment. 
 
 
+28.03.23
+
+worked through the below in the this session; 
+
+  Communicating with stakeholders
+  Brainstorming
+  Sharing meeting outcomes
+  
+  and special focus on how to conduct effective meetings and create meaniful communication routes with stakeholders.
 
