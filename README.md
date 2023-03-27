@@ -51,3 +51,16 @@ Working through the scope issue unit;
 
 Working through the first of four assesements of this topic, all revolving around the above bullet points. 
 
+27.03.23
+
+worked through a deeper session revolving around the following; 
+- Identifying workplace situations
+- Identifying restrictions due to job roles and company policy and procedures
+- Addressing factors that affect the viability of solutions
+
+Also watched a couple extra vids on subnetting via networkchuck youtube. 
+
+Really interesed about learning more about networking and also the whole devops infrastructure at this moment. 
+
+
+
