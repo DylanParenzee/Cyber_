@@ -73,3 +73,7 @@ worked through the below in the this session;
   
   and special focus on how to conduct effective meetings and create meaniful communication routes with stakeholders.
 
+
+29.03.23
+
+Downloaded Cisco packet tracer and played around, created a basic network, still got a ways to go when it comes to understanding config but an awesome bit of software none the less.
