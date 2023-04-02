@@ -84,4 +84,4 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 
 
 02.04.23
-- created small network using cisco packet tracer, practice setting up server and working with some basic protocols( DNS, DHCP, FTP, POP3)
+- created small network using cisco packet tracer, practice setting up server and working with some basic protocols( HTTPS, DNS, DHCP, FTP, POP3)
