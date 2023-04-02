@@ -81,3 +81,7 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 01.04.23
 - Study of old networking protcol (10base5/vampire wire tap/ bus topology) 
 - Servers, Clients, Ports and protocols.
+
+
+02.04.23
+- created small network using cisco packet tracer, practice setting up server and working with some basic protocols( DNS, DHCP, FTP, POP3)
