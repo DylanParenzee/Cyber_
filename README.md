@@ -89,3 +89,7 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 
 03.04.23
 - completed assesment 3 of the cybersecurity awareness and best practices unit -- conducted an interview with the developer and ran through some common threats and best practices to mitigate those threats, along with a run down of the newly created acceptable use policy and BYOD policy.
+
+
+04.03.23
+- Networking Devices - Repeaters, Hubs, Switches and routers
