@@ -93,3 +93,6 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 
 04.03.23
 - Networking Devices - Repeaters, Hubs, Switches and routers
+
+05.03.23
+- Networking Devices - Firewalls, IDS, IPS and WLC
