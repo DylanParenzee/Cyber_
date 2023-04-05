@@ -96,3 +96,4 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 
 05.03.23
 - Networking Devices - Firewalls, IDS, IPS and WLC
+- OSI TCP IP models
