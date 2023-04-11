@@ -97,3 +97,17 @@ Downloaded Cisco packet tracer and played around, created a basic network, still
 05.03.23
 - Networking Devices - Firewalls, IDS, IPS and WLC
 - OSI TCP IP models
+
+
+11.03.23
+
+Code of Ethics
+Australia-wide copyright laws
+NSW copyright laws and ACT copyright laws
+Australia-wide IP laws
+NSW and ACT IP laws
+Australia-wide privacy laws
+NSW and ACT privacy laws
+Copyright policies
+Intellectual Property policies
+Organisational communication procedures
