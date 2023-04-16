@@ -116,3 +116,12 @@ Organisational communication procedures
 12.04.23
 - Code of Ethics
 - Australia-wide copyright laws
+
+
+16.03.23
+
+(networking) 
+- bits 
+- frames 
+- packets 
+- segments
