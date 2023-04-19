@@ -128,7 +128,8 @@ Organisational communication procedures
 
 
 19.04.23
-- Study and familiarisation of; 
+(Diploma)
+Study and familiarisation of; 
 
 Copyright Act 1968
 Copyright Amendment 
@@ -136,6 +137,11 @@ Copyright Amendment Bill 2015
 NSW copyright laws
 
 very dry, but part of the IP, Ethics and Privacy concepts unit of my studies..
+
+(Networking)
+- standardisation of tech in the industry 
+- TCP/IP focus --- OSI takes a backseat (technically still incorporated)
+
 
 
 
