@@ -118,10 +118,24 @@ Organisational communication procedures
 - Australia-wide copyright laws
 
 
-16.03.23
+16.04.23
 
 (networking) 
 - bits 
 - frames 
 - packets 
 - segments
+
+
+19.04.23
+- Study and familiarisation of; 
+
+Copyright Act 1968
+Copyright Amendment 
+Copyright Amendment Bill 2015
+NSW copyright laws
+
+very dry, but part of the IP, Ethics and Privacy concepts unit of my studies..
+
+
+
