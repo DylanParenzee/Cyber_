@@ -142,6 +142,17 @@ very dry, but part of the IP, Ethics and Privacy concepts unit of my studies..
 - standardisation of tech in the industry 
 - TCP/IP focus --- OSI takes a backseat (technically still incorporated)
 
+27.04.23
+Identify and explain using one to two sentences for each, the nine (9) codes of ethics by the Information Technology Professionals Association (ITPA).
 
+Fair Treatment - Everyone shall be treated fairly no discrimination based on age, disability, gender, sexual orientation, religion, race or national origin. 
+Privacy- Acknowledgment to maintain confidentiality of any private information you have access to and acknowledgement of statutory laws governing data privacy. 
+Communication- I will keep users informed about all computing matters that affect them, eg- acceptable use policy, sharing of resources, security maintenance.
+System Integrity- Striving for integrity of all systems I am responsible for using means like- regularly maintaining system software and hardware, performance monitoring and preventing unauthorised use or access.
+Co-operation- To co-operate and support fellow computing professionals, acknowledge community responsibility for local, national and international network resource integrity.
+Honesty- To be honest about my competence and seek help when necessary.
+Education- I will continue to update and enhance my technical knowledge and management skills by training, study, and the sharing of information and experiences with my fellow professionals.
+Social Responsibility -I will continue to enlarge my understanding of the social and legal issues that arise in computing environments
+Workplace Quality- I will strive to achieve and maintain a safe, healthy, productive workplace for all users.
 
 
